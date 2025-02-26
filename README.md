@@ -7,7 +7,7 @@ I have worked as a Product Engineer with multiple startups in the past.
 ### What I’m working on now 🚀  
 For the past year, I’ve been focused on building tools that help people develop autonomous robots. One such project is **[Rigit.io](https://rigit.io)**, a step toward making robotics development more accessible.  
 
-I believe in **open-source development** as a way to reach a global audience and maximize impact. Turning some of my projects open source and building in public is my way of sharing knowledge and learning from the community.  
+I believe in **open-source development** as a way to reach a global maxima. Turning some of my projects open source and building in public is my way of sharing knowledge and learning from the community.  
 
 I welcome both **honest critique** and **encouragement** on this journey.  
 
