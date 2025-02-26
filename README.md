@@ -18,12 +18,12 @@ Please feel free to be an **honest critique** and **cheer leader** on this journ
 - **Demo:** [Live Demo](https://rigit.io)  
 - **Repo:** [GitHub](https://github.com/sourav-bz/scrib)  
 
-#### 1️⃣ **[Rigit.io](https://rigit.io)** – No-code Simulation Tool for Robotics  
+#### 2️⃣ **[Rigit.io](https://rigit.io)** – No-code Simulation Tool for Robotics  
 - **What it solves:** Helps developers and researchers prototype, test, and simulate autonomous robots without writing complex simulation code.  
 - **Demo:** [Live Demo](https://rigit.io)  
 - **Repo:** [GitHub](https://github.com/sourav-bz/rigit)  
 
-#### 2️⃣ **Showfer.ai** – AI Mascot Assistant for Websites  
+#### 3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites  
 - **What it solves:** Enables businesses to deploy AI-driven mascots that assist users through voice and chat interactions.  
 - **Demo:** [Live Demo](https://showfer.ai)  
 - **Repo:** [GitHub](https://github.com/your_handle/showfer-ai)
