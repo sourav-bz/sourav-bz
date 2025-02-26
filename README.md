@@ -15,7 +15,7 @@ Please feel free to be an **honest critique** and **cheer leader** on this journ
 
 #### 1️⃣ **[Scrib](https://scrib.in)** – A Private Note Taking App for Your Intrusive Thoughts  
 - **What it solves:** Helps you note down your thoughts locally on device, and the feed is designed like a social media feed, for you to give a feel of writing on Twitter.  
-- **Demo:** [Live Demo](https://rigit.io)  
+- **Demo:** [Live Demo](https://x.com/sourav_bz/status/1894750973295493331)  
 - **Repo:** [GitHub](https://github.com/sourav-bz/scrib)  
 
 #### 2️⃣ **[Rigit.io](https://rigit.io)** – No-code Simulation Tool for Robotics  
