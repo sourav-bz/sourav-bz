@@ -5,11 +5,7 @@ I love building products for fun, either to solve problems I encounter or to add
 I have worked as a Product Engineer with multiple startups in my past life.  
 
 ### What I’m working on now 🚀  
-Since last 1 year (2024), I’ve been focused on building tools that help people develop autonomous robots. One such project is **[Rigit.io](https://rigit.io)**, a step toward making robotics development more accessible.  
-
-I believe in **open-source development** as a way to reach global maxima, and also you need to do your best work for people to come to you, turning few of my projects open source and building in public is a step in that direction.
-
-Please feel free to be an **honest critique** and **cheer leader** on this journey. 
+Since last 1 year (2024), I’ve been focused on building tools that help people develop autonomous robots. One such project is **[Rigit.io](https://rigit.io)**, a step toward making robotics development more accessible.
 
 ### 🏗️ Projects (Latest first)
 
