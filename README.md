@@ -22,7 +22,3 @@ Above are some projects that are currently public. You can:
 - Build on top of my previous projects—just reach out!  
 
 If you’re interested in extending any of my work, feel free to message me on **[Twitter/X](https://x.com/sourav_bz)**. I’d be happy to share my learnings so you can avoid common pitfalls and reach your goals faster.
-
----
-
-**We are gonna make it!** ✊  
