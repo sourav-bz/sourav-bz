@@ -13,7 +13,9 @@ Since last 1 year (2024), I’ve been focused on building tools that will help p
 
 2️⃣ **Rigit.io** Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)   
 
-3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites [Demo](https://showfer.ai) [Repo](https://github.com/your_handle/showfer-ai)
+3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites [Demo](https://showfer.ai) [Repo](https://github.com/sourav-bz/showfer-ai)
+
+4️⃣ **Showfer Browser** – An iOS browser app running with LLM [Demo](https://testflight.apple.com/join/dFRm16ED) [Repo](https://github.com/sourav-bz/showfer-browser)
 
 
 <details>
