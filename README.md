@@ -17,11 +17,19 @@ Since last 1 year (2024), I’ve been focused on building tools that will help p
 
 
 <details>
-<summary>### tl;dr 🛠️ </summary>
-Above are some projects that are currently public. You can:  
-- Run them locally with your own keys.  
-- Create issues for feature requests.  
-- Build on top of my previous projects—just reach out!  
-
+<summary>TL;DR</summary>
+Above are some projects that are currently public. You can: 
+<ul>
+  <li>
+    Run them locally with your own keys.
+  </li>
+  <li>
+    Create issues for feature requests.
+  </li>
+  <li>
+    Build on top of my previous projects—just reach out!
+  </li>
+</ul>
+<br>
 If you’re interested in extending any of my work, feel free to message me on **[Twitter/X](https://x.com/sourav_bz)**. I’d be happy to share my learnings so you can avoid common pitfalls and reach your goals faster.
 </details>
