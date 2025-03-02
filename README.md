@@ -13,20 +13,11 @@ Please feel free to be an **honest critique** and **cheer leader** on this journ
 
 ### 🏗️ Projects (Latest first)
 
-#### 1️⃣ **[Scrib](https://scrib.in)** – A Private Note Taking App for Your Intrusive Thoughts  
-- **What it solves:** Helps you note down your thoughts locally on device, and the feed is designed like a social media feed, for you to give a feel of writing on Twitter.  
-- **Demo:** [Live Demo](https://x.com/sourav_bz/status/1894750973295493331)  
-- **Repo:** [GitHub](https://github.com/sourav-bz/scrib)  
+1️⃣ **Scrib** – Helps you note down your thoughts on device, and the feed is designed like a feed.  [Demo](https://x.com/sourav_bz/status/1894750973295493331) [Repo](https://github.com/sourav-bz/scrib)  
 
-#### 2️⃣ **[Rigit.io](https://rigit.io)** – No-code Simulation Tool for Robotics  
-- **What it solves:** Helps developers and researchers prototype, test, and simulate autonomous robots without writing complex simulation code.  
-- **Demo:** [Live Demo](https://rigit.io)  
-- **Repo:** [GitHub](https://github.com/sourav-bz/rigit)  
+2️⃣ **Rigit.io** Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)   
 
-#### 3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites  
-- **What it solves:** Enables businesses to deploy AI-driven mascots that assist users through voice and chat interactions.  
-- **Demo:** [Live Demo](https://showfer.ai)  
-- **Repo:** [GitHub](https://github.com/your_handle/showfer-ai)
+3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites [Demo](https://showfer.ai) [Repo](https://github.com/your_handle/showfer-ai)
 
 ### My Open Source Projects 🛠️  
 Above are some projects that are currently public. You can:  
