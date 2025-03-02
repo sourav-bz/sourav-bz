@@ -11,7 +11,7 @@ Right now, I'm focused on building better simulations for robots and AI to learn
 
 1️⃣ **Scrib** – Helps you note down your thoughts on device, and the feed is designed like a feed.  [Demo](https://x.com/sourav_bz/status/1894750973295493331) [Repo](https://github.com/sourav-bz/scrib)  
 
-2️⃣ **Rigit.io** Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)   
+2️⃣ **Rigit.io** - Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)   
 
 3️⃣ **Showfer.ai** – AI Mascot Assistant for Websites [Demo](https://showfer.ai) [Repo](https://github.com/sourav-bz/showfer-ai)
 
