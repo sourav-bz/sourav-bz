@@ -1,4 +1,4 @@
-# Hey everyone, I'm Sourav 👋 
+# Hey, I'm Sourav 👋 
 
 I love building products for fun, either to solve problems I encounter or to address something that truly needs a solution.  
 
