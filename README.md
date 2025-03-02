@@ -17,7 +17,7 @@ Since last 1 year (2024), I’ve been focused on building tools that will help p
 
 ### My Open Source Projects 🛠️  
 Above are some projects that are currently public. You can:  
-- Run them locally with your own API keys and environment variables.  
+- Run them locally with your own keys.  
 - Create issues for feature requests.  
 - Build on top of my previous projects—just reach out!  
 
