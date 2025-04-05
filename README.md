@@ -9,7 +9,7 @@ Right now, I'm focused on building better simulations for robots and AI to learn
 
 ### 🏗️ Projects (Latest first)
 
-**_WIP: Rigit Shapes Editor_** - _building using bevy and rust, a simple tool to create, edit CAD drawings_
+**_WIP: Rigit Shapes Editor_** - _building using rust, a simple tool to create, edit CAD drawings_
 
 1️⃣ **Silly Rust** - I am documenting my journey of building with Rust & Bevy, by answering silly questions. [Demo](https://sillyrust.com) [Repo](https://github.com/sourav-bz/silly-rust)\
 2️⃣ **Scrib** – Helps you note down your thoughts on device, and the feed is designed like a feed.  [Demo](https://x.com/sourav_bz/status/1894750973295493331)\
