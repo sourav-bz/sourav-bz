@@ -11,8 +11,8 @@ Right now, I'm focused on building better simulations for robots and AI to learn
 
 **_WIP: Rigit Shapes Editor_** - _building using rust, a simple tool to create, edit 3D shapes and drawings_
 
-1️⃣ **Silly Rust** - I am documenting my journey of building with Rust & Bevy, by answering silly questions. [Demo](https://sillyrust.com) [Repo](https://github.com/sourav-bz/silly-rust)\
-2️⃣  **Rigit.io** - Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)   
+1️⃣ **Rigit.io** - Helps developers and researchers prototype, test, and simulate autonomous robots in IDE. [Demo](https://rigit.io)\
+2️⃣ **Silly Rust** - I am documenting my journey of building with Rust & Bevy, by answering silly questions. [Demo](https://sillyrust.com) [Repo](https://github.com/sourav-bz/silly-rust)
 
 #### Deffered Projects
 3️⃣ **Scrib** – Helps you note down your thoughts on device, and the feed is designed like a feed.  [Demo](https://x.com/sourav_bz/status/1894750973295493331)\
